@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="gif.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIwZHM4YjZ6b3ZlZ29hZ2h5aGZtZ2h5aGZtZ2h5aGZtZ2h5aGZtZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QtGvlQy1y7CXLp8ybk/giphy.gif" width="150" />
 </p>
-
-
 ## Hi, I’m Aarti 🌸
 
 🎓 **Data Science student at the University of Greenwich** 💻 I love turning ideas into things that actually *do* stuff.  
