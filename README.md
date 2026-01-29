@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="GIF" width="60" />
+</p>
+
+## Hi there 👋  
+### Hi, I’m Aarti 🌸
+
 ## Hi, I’m Aarti 🌸
 
 🎓 **Data Science student at the University of Greenwich** 💻 I love turning ideas into things that actually *do* stuff.  
