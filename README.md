@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Aarti's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Aa1702&show_icons=true&theme=tokyonight" alt="Aarti's Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Aa1702&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=aarti-omane&label=Profile%20Views&color=12&icon=5&pretty=true)
