@@ -48,14 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aa1702&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Aa1702&label=Profile%20Views&color=12&icon=5&pretty=true)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aa1702&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aa1702&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aa1702&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Aa1702&icon=0&color=9)](https://visitcount.itsvg.in)
