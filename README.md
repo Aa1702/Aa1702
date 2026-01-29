@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="GIF" width="60" />
+  <img src="gif.gif" width="150" />
 </p>
+
 
 ## Hi, I’m Aarti 🌸
 
@@ -41,10 +42,4 @@
 > *"I build things for myself first, then share them. If it’s practical and aesthetic, I’m sold."*
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aa1702&show_icons=true&theme=tokyonight" alt="Aarti's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aa1702&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</p>
 
