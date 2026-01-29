@@ -1,36 +1,47 @@
-## Hi there 👋  
-### Hi, I’m Aarti 🌸
+## Hi, I’m Aarti 🌸
 
-Welcome to my little corner of GitHub 💻✨  
-I’m a **Data Science student at the University of Greenwich** who loves turning ideas into things that actually *do* stuff.
+🎓 **Data Science student at the University of Greenwich** 💻 I love turning ideas into things that actually *do* stuff.  
+💌 **@[whispers__of__echoes](https://www.instagram.com/whispers__of__echoes/)** on Instagram  
+💼 **[Connect on LinkedIn](https://www.linkedin.com/in/aarti-omane-5a626721b)**
 
-### 💡 What do I enjoy?
-- 📊 Data analysis & visualisations (charts make me happy)
-- 🐍 Python, my comfort language
-- 🌐 Building small web apps with HTML, CSS & JavaScript  
-- 🗂️ Creating tools for real life  
-  - a medicine reminder app for my friend  
-  - planners and trackers I actually use daily  
-- 🎨 Pixelated art & retro aesthetics  
-- ✍️ Poems, thoughts, and words that feel like home  
+---
+
+### 💡 Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit_Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+### 🎨 What do I enjoy?
+* 📊 **Data Analysis:** Visualisations and charts make me happy (especially using Plotly & Seaborn).
+* 🗂️ **Building Tools:** I make planners, trackers, and things like my medicine reminder app.
+* 👾 **Pixel Art:** I love retro aesthetics and pixel vibes over flashy UI.
+* ✍️ **Creative Writing:** Poems and thoughts that feel like home.
 
 ### 🌱 What I’m learning right now?
-- Machine Learning & applied data science  
-- Making data projects cleaner, clearer, and more useful  
-- Turning notebooks into real, usable apps  
-
-### 🎯 Why I build?
-I like simple tools that make life calmer, clearer, and a little kinder.  
-If something can reduce stress or save time, I probably want to build it.
-
-### 📬 Let’s connect
-- 📸 Instagram: **@[your_instagram_here](https://www.instagram.com/whispers__of__echoes/)**
-- 💼 LinkedIn: **[your_linkedin_here](https://www.linkedin.com/in/aarti-omane-5a626721b)**
+* 🤖 **Machine Learning:** Applying data science to real-world problems.
+* 📱 **App Dev:** Turning my data notebooks into usable web apps.
 
 ### ⚡ Fun facts
-- I love pixel vibes more than flashy UI  
-- I build things for myself first, then share them  
-- If it’s practical *and* aesthetic, I’m sold  
+> *"I build things for myself first, then share them. If it’s practical and aesthetic, I’m sold."*
 
-Thanks for stopping by 💙  
-Feel free to explore, star, or just vibe 🌙
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Aarti's Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</p>
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=aarti-omane&label=Profile%20Views&color=12&icon=5&pretty=true)
