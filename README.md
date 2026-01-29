@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=B197FC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aarti+%F0%9F%8C%B8;Data+Science+Student+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+cozy+corner!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aarti+%F0%9F%8C%B8;Data+Science+Student;Welcome+to+my+cozy+corner!+%E2%9C%A8" alt="Typing SVG" />
 </p>
 ## Hi, I’m Aarti 🌸
 
