@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIwZHM4YjZ6b3ZlZ29hZ2h5aGZtZ2h5aGZtZ2h5aGZtZ2h5aGZtZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QtGvlQy1y7CXLp8ybk/giphy.gif" width="150" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aarti+%F0%9F%8C%B8;Data+Science+Student+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+cozy+corner!+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
 </p>
 ## Hi, I’m Aarti 🌸
 
