@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aarti+%F0%9F%8C%B8;Data+Science+Student;Welcome+to+my+cozy+corner!+%E2%9C%A8" alt="Typing SVG" />
 </p>
-## Hi, I’m Aarti 🌸
+Hi, I’m Aarti 🌸
 
 🎓 **Data Science student at the University of Greenwich** 💻 I love turning ideas into things that actually *do* stuff.  
 💌 **@[whispers__of__echoes](https://www.instagram.com/whispers__of__echoes/)** on Instagram  
