@@ -11,16 +11,21 @@ Hi, I’m Aarti 🌸
 ---
 
 ### 💡 Tech Stack & Tools
+**Languages & Web**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**Data & Visualisation**
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit_Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+**Design & Productivity**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -28,13 +33,14 @@ Hi, I’m Aarti 🌸
 ---
 
 ### 🎨 What do I enjoy?
-* 📊 **Data Analysis:** Visualisations and charts make me happy (especially using Plotly & Seaborn).
+* 📊 **Data Analysis:** Visualisations, interactive dashboards, and charts make me happy (from Plotly & Seaborn to full Tableau suites!).
 * 🗂️ **Building Tools:** I make planners, trackers, and things like my medicine reminder app.
 * 👾 **Pixel Art:** I love retro aesthetics and pixel vibes over flashy UI.
 * ✍️ **Creative Writing:** Poems and thoughts that feel like home.
 
 ### 🌱 What I’m learning right now?
 * 🤖 **Machine Learning:** Applying data science to real-world problems.
+* 📈 **Business Intelligence:** Crafting operational dashboards that tell a clear, actionable story with data.
 * 📱 **App Dev:** Turning my data notebooks into usable web apps.
 
 ### ⚡ Fun facts
